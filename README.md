@@ -1,4 +1,4 @@
-# Cell-DEVS-Virus-Spread-In-Lung-Tissue
+# Modeling and simulation of the SARS-CoV-2 lung infection and immune response with Cell-DEVS
 
 The model was tested and runs on lubuntu linux using the 'cd++' binary found in the root of the repo.
 
